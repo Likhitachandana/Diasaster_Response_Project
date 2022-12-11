@@ -45,7 +45,7 @@ Flask Web App is responsible for deploying the machine learning model on a websi
 
 <a id='dataset'></a>
 ## 3. Training Dataset
-The cleaned training dataset contains more than 26K labeled messages and has 36 different classes such as related, offer, food, water, and electricity. The following photo shows how many classes the dataset has: ![image](
+The cleaned training dataset contains more than 26K labeled messages and has 36 different classes such as related, offer, food, water, and electricity. The following photo shows how many classes the dataset has: 
 
 <a id='model'></a>
 ## 4. The machine learning model
