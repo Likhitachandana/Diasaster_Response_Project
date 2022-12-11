@@ -24,7 +24,6 @@ This is Team project. We have created ETL Pipeline to clean the data transform i
 The Disaster Watch Project helps disaster victims by minimizing potential losses and providing the right assistance. Governments, businesses, and civil society work continuously to prepare for and lessen the effects of disasters. At every stage of a crisis, taking the right action increases preparedness, improves warnings, and reduces susceptibility.
 
 One of the best ways to receive a quick overview of what's happening globally is through social media tools, but it may be challenging to sift through everything online. The goal of this research is to assist governments in categorizing millions of social media messages using supervised machine learning. In order for the governments to promptly respond to disasters, the model is trained using the [Figure Eight](https://appen.com/) dataset to classify the messages into the appropriate categories.
-
 <a id='project_outline'></a>
 ## 2. Project Outline
 This section explains all three parts of this project from cleaning the data to deploying the model on the flask app
