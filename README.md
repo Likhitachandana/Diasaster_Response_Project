@@ -41,7 +41,7 @@ The Extract, Transform and Load (ETL) pipeline is responsible for preparing the 
 ### 2.2 Machine Learning Pipleline 
 A machine learning pipeline is the end-to-end construct that orchestrates the flow of data into, and output from, a machine learning model (or set of multiple models). It includes raw data input, features, outputs, the machine learning model and model parameters, and prediction outputs.
 <a id='flask_app'></a>
-###2.3 Flask Web App
+### 2.3 Flask Web App
 Flask Web App is responsible for deploying the machine learning model on a website and allowing the user to use the trained model to do predictions.
 
 ![image]
