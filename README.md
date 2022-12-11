@@ -17,7 +17,6 @@ This is Team project. We have created ETL Pipeline to clean the data transform i
   * [Train Classifier](#train_classifier)
   * [Run the flask web app](#run_flask_app)
 * [Conclusion](#conclusion)
-* [Acknowledgements](#acknowledgements)
 
 ***
 <a id='project_overview'></a>
@@ -43,8 +42,6 @@ A machine learning pipeline is the end-to-end construct that orchestrates the fl
 <a id='flask_app'></a>
 ### 2.3 Flask Web App
 Flask Web App is responsible for deploying the machine learning model on a website and allowing the user to use the trained model to do predictions.
-
-![image]
 
 <a id='dataset'></a>
 ## 3. Training Dataset
