@@ -3,7 +3,7 @@ This is Team project. We have created ETL Pipeline to clean the data transform i
 # Disaster Response Pipelines
 
 ## Table of Content:
-* [Project Overview](#project_overview)tl
+* [Project Overview](#project_overview)
 * [Project Outline](#project_outline)
   * [Extract, Transform, and Load Pipeline](#ETL_pipline)
   * [Machine Learning Pipleline](#machine_learning_pipeline)
@@ -84,5 +84,5 @@ The macinhe learning model was built using [SVClinear](https://scikit-learn.org/
 In order to run this project, you must have [Python3](https://www.python.org/) installed on your machine. You also must have all listed libraries inside the `requirments.txt` so run the following command to install them: pip install -r requirements.txt
 
 <a id='conclusion'></a>
-### 8. Conclusion
+### 7. Conclusion
 In the conclusion, catastrophes are horrible if we are not properly prepared to deal with them, thus having a system that consistently delivers correct warnings is helpful to get an early notice of a potential disaster and decrease potential losses. The system was built using scikit-learn and achieved 95% accuracy, but that does not mean it is the best model.
