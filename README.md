@@ -1,23 +1,6 @@
 # Diasaster_Watch_Project
 This is Team project. We have created ETL Pipeline to clean the data transform into database.  ML pipeline helps in transforming the data using Scikit learn we can implemetent the SVC linear and train the data. 
 # Disaster Watch Pipelines
-
-## Table of Content:
-* [Project Overview](#project_overview)
-* [Project Outline](#project_outline)
-  * [Extract, Transform, and Load Pipeline](#ETL_pipline)
-  * [Machine Learning Pipleline](#machine_learning_pipeline)
-  * [Flask Web app](#flask_app)
-* [Training Dataset](#dataset)
-* [Machine Learning Model](#model)
-* [Files Structure](#files)
-* [Requirments](#requirments)
-* [Running Process](#running)
-  * [Process Data](#process_data)
-  * [Train Classifier](#train_classifier)
-  * [Run the flask web app](#run_flask_app)
-* [Conclusion](#conclusion)
-
 ***
 <a id='project_overview'></a>
 ## 1. Project Overview
