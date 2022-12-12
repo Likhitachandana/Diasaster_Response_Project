@@ -33,32 +33,6 @@ The cleaned training dataset contains more than 26K labeled messages and has 36 
 <a id='model'></a>
 ## 4. The machine learning model
 The macinhe learning model was built using [SVClinear](https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html) from [scikit-learn](https://scikit-learn.org/) library. The model accruacy was calculated using [Numpy mean](https://github.com/Murtada-Altarouti/Disaster-Response-Pipelines/blob/1bd315ee829e9cda890a88b25fcce356198a1aa5/models/train_classifier.py#L101) which was equal to 95%. 
-
-<a id='files'></a>
-## 5. Files Structure
-```
-├── app #Website folder
-│   ├── run.py #Responsible of running the website
-│   └── templates
-│       ├── go.html #Responsible of showing the results
-│       └── master.html #The main page
-|
-├── data
-│   ├── disaster_categories.csv #Categories dataset
-│   ├── disaster_messages.csv #Messages dataset
-│   ├── DisasterResponse.db #The cleaned dataset in SQLite database
-│   └── process_data.py #Responsible for preparing the dataset 
-|
-├── models
-│   ├── classifier.pkl #The SVM model
-│   └── train_classifier.py #Responsible for creating the machine learning model
-|
-├── readme_images #This folder contains all images for the readme file
-│   ├── dataset.png
-│   └── website_example.png
-└── README.md #Readme file 
-```
-
 <a id='requirments'></a>
 ## 6. Requirments
 In order to run this project, you must have [Python3](https://www.python.org/) installed on your machine. You also must have all listed libraries inside the `requirments.txt` so run the following command to install them: pip install -r requirements.txt
